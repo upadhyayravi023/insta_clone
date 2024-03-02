@@ -1,0 +1,1 @@
+ C:\\Users\\Dell\\StudioProjects\\insta_clone\\.dart_tool\\flutter_build\\6cb680e6366f7d7676cf0a426f22b931\\native_assets.yaml: 
